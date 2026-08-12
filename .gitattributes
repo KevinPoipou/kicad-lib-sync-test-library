@@ -1,0 +1,6 @@
+*.kicad_sym merge=kicad_lib diff=kicad_lib
+*.kicad_mod merge=kicad_lib
+*.step merge=kicad_lib -diff
+*.wrl merge=kicad_lib -diff
+sym-lib-table merge=kicad_lib
+fp-lib-table merge=kicad_lib
