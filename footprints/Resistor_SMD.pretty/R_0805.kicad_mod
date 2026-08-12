@@ -1,0 +1,7 @@
+(footprint "R_0805_2012Metric"
+	(version 20240101)
+	(generator "pcbnew")
+	(layer "F.Cu")
+	(descr "Resistor SMD 0805")
+	(tags "resistor")
+)
