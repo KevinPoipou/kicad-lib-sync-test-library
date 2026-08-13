@@ -4,3 +4,5 @@
 *.wrl merge=kicad_lib -diff
 sym-lib-table merge=kicad_lib
 fp-lib-table merge=kicad_lib
+
+.kicad_lib_sync/events.jsonl merge=union
