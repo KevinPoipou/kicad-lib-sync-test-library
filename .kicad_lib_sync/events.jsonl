@@ -4,3 +4,9 @@
 {"name": "Y", "category": "symbol", "action": "approved", "author": "Kevin", "ts": "2026-08-13T20:24:43+00:00"}
 {"name": "U", "category": "symbol", "action": "approved", "author": "Kevin", "ts": "2026-08-13T20:24:55+00:00"}
 {"name": "TVS", "category": "symbol", "action": "approved", "author": "Kevin", "ts": "2026-08-13T20:25:29+00:00"}
+{"name": "Y", "category": "symbol", "action": "unapproved", "author": "Kevin", "ts": "2026-08-13T20:32:10+00:00"}
+{"name": "U", "category": "symbol", "action": "unapproved", "author": "Kevin", "ts": "2026-08-13T20:32:12+00:00"}
+{"name": "TVS", "category": "symbol", "action": "unapproved", "author": "Kevin", "ts": "2026-08-13T20:32:13+00:00"}
+{"name": "Y", "category": "symbol", "action": "approved", "author": "Kevin", "ts": "2026-08-13T20:57:29+00:00"}
+{"name": "Y", "category": "symbol", "action": "unapproved", "author": "Kevin", "ts": "2026-08-13T20:57:30+00:00"}
+{"name": "C", "category": "symbol", "action": "approved", "author": "Kevin", "ts": "2026-08-14T19:48:35+00:00", "comment": ""}
