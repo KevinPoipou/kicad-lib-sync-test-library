@@ -1,0 +1,7 @@
+(footprint "C_0603_1608Metric"
+	(version 20240101)
+	(generator "pcbnew")
+	(layer "F.Cu")
+	(descr "Capacitor SMD 0603")
+	(tags "capacitor")
+)
