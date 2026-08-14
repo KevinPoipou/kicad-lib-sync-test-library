@@ -21,3 +21,4 @@
 {"name": "NTC", "category": "symbol", "action": "new", "author": "Kevin", "ts": "2026-08-14T20:29:57+00:00", "comment": ""}
 {"name": "ZD", "category": "symbol", "action": "new", "author": "Kevin", "ts": "2026-08-14T20:29:58+00:00", "comment": ""}
 {"name": "C_0603", "category": "footprint", "action": "new", "author": "Kevin", "ts": "2026-08-14T20:29:58+00:00", "comment": ""}
+{"name": "PinHeader_1x02_P2.54mm", "category": "footprint", "action": "new", "author": "Kevin", "ts": "2026-08-14T20:29:58+00:00", "comment": ""}

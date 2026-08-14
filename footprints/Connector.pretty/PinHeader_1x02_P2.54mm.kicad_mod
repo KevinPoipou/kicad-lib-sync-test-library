@@ -1,0 +1,7 @@
+(footprint "PinHeader_1x02_P2.54mm_Vertical"
+	(version 20240101)
+	(generator "pcbnew")
+	(layer "F.Cu")
+	(descr "Through hole straight pin header, 1x02, 2.54mm pitch")
+	(tags "connector")
+)
