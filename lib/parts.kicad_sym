@@ -10,7 +10,7 @@
     (property "Reference" "R" (at 2.032 0 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "22k" (at 0 0 90)
+    (property "Value" "10k" (at 0 0 90)
       (effects (font (size 1.27 1.27)))
     )
     (symbol "R_0_1"
