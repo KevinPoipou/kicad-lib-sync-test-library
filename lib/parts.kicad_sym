@@ -241,7 +241,7 @@
     (property "Reference" "LED" (at 0 2.54 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "Red" (at 0 -2.54 0)
+    (property "Value" "Blue" (at 0 -2.54 0)
       (effects (font (size 1.27 1.27)))
     )
     (symbol "LED_0_1"
