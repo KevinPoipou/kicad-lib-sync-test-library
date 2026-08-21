@@ -24,3 +24,11 @@
 {"name": "PinHeader_1x02_P2.54mm", "category": "footprint", "action": "new", "author": "Kevin", "ts": "2026-08-14T20:29:58+00:00", "comment": ""}
 {"name": "LED_0805", "category": "footprint", "action": "new", "author": "Kevin", "ts": "2026-08-14T20:29:58+00:00", "comment": ""}
 {"name": "Czazeazdqs", "category": "symbol", "action": "new", "author": "Kevin", "ts": "2026-08-14T21:06:56+00:00", "comment": ""}
+{"name":"ZD","category":"symbol","action":"approved","author":"Poipou","ts":"2026-08-21T17:37:24+00:00","comment":""}
+{"name":"ZD","category":"symbol","action":"rejected","author":"Poipou","ts":"2026-08-21T17:37:26+00:00","comment":""}
+{"name":"ZD","category":"symbol","action":"approved","author":"Poipou","ts":"2026-08-21T18:29:38+00:00","comment":""}
+{"name":"ZD","category":"symbol","action":"rejected","author":"Poipou","ts":"2026-08-21T18:29:40+00:00","comment":""}
+{"name":"ZD","category":"symbol","action":"approved","author":"Poipou","ts":"2026-08-21T20:04:24+00:00","comment":"","target":""}
+{"name":"C_0603","category":"footprint","action":"approved","author":"Poipou","ts":"2026-08-21T20:04:28+00:00","comment":"","target":""}
+{"name":"C_0603","category":"footprint","action":"unapproved","author":"Poipou","ts":"2026-08-21T20:04:29+00:00","comment":"","target":""}
+{"name":"ZD","category":"symbol","action":"rejected","author":"Poipou","ts":"2026-08-21T20:04:54+00:00","comment":"nul","target":""}
