@@ -32,3 +32,4 @@
 {"name":"C_0603","category":"footprint","action":"approved","author":"Poipou","ts":"2026-08-21T20:04:28+00:00","comment":"","target":""}
 {"name":"C_0603","category":"footprint","action":"unapproved","author":"Poipou","ts":"2026-08-21T20:04:29+00:00","comment":"","target":""}
 {"name":"ZD","category":"symbol","action":"rejected","author":"Poipou","ts":"2026-08-21T20:04:54+00:00","comment":"nul","target":""}
+{"name":"C_0603","category":"footprint","action":"rejected","author":"Poipou","ts":"2026-08-21T20:14:23+00:00","comment":"test","target":""}
